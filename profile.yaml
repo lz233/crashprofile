@@ -495,7 +495,7 @@ rule-providers:
     interval: 86400
     behavior: classical
     format: text
-    url: https://cdn.jsdelivr.net/gh/lz233/crashprofile@main/rules/GFWlist.list
+    url: https://cdn.jsdelivr.net/gh/lz233/crashprofile@master/rules/GFWlist.list
   chinaip:
     type: http
     interval: 86400
