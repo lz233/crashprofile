@@ -6358,3 +6358,6 @@ DOMAIN-SUFFIX,brew.sh
 # Python
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
+
+# Cloudflare
+DOMAIN-SUFFIX,challenges.cloudflare.com
