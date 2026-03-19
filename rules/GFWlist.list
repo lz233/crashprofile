@@ -6361,3 +6361,6 @@ DOMAIN-SUFFIX,pythonhosted.org
 
 # Cloudflare
 DOMAIN-SUFFIX,challenges.cloudflare.com
+
+# XDA
+DOMAIN-SUFFIX,xdaforums.com
